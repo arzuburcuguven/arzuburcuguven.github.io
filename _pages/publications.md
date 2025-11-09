@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% assign sorted_pubs = site.publications | sort: 'date'}
+{% assign sorted_pubs = site.publications | sort: 'date' %}
 {% for pub in sorted_pubs %}
   <div class="publication-item" style="margin-bottom: 1.5em;">
     <strong>{{ pub.authors }}</strong>. 
