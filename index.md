@@ -11,7 +11,7 @@ author_profile: true
 I am a PhD student in Data Science at IT University of Copenhagen.
 I work in the [NLPnorth](https://nlpnorth.github.io/) research group, under the supervision of [Rob van der Goot](https://robvanderg.github.io/) and [Anna Rogers](https://annargrs.github.io/).
 
-My research focuses on how language models learn and use language, specifically I am interested in whether if we can find the hiearchical biases language models develop hierarchical biases toward syntactic structure, how we can distinguish statistical learning from structural 
+My research focuses on how language models learn and use language, specifically I am interested in whether language models develop hierarchical biases toward syntactic structure, how we can distinguish statistical learning from structural 
 knowledge, and how training data composition affects model performance. Broader themes in my work are generalization, and multilingual linguistic evaluation.
 
 ## Publications
