@@ -6,8 +6,6 @@ author_profile: true
 #title: Home
 ---
 
-## About
-
 I am a PhD student in Data Science at IT University of Copenhagen.
 I work in the [NLPnorth](https://nlpnorth.github.io/) research group, under the supervision of [Rob van der Goot](https://robvanderg.github.io/) and [Anna Rogers](https://annargrs.github.io/).
 
